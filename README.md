@@ -13,7 +13,7 @@ Nikolina Krce
 
 ### Prototip aplikacije
 
-Figma: https://figma.com/...
+Figma: https://www.figma.com/proto/dviwDgw5u3tIGwOIy1q9MK/FlowerEx.?type=design&node-id=709-78&t=zYfsR84r7UbFthgr-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A156&mode=design
 
 ### Javni link na aplikaciju
 
