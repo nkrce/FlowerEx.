@@ -4,7 +4,7 @@ Aplikacija za narudžbu cvijeća i buketa iz lokalnih cvjećarni.
 
 Grupa korisnika: sve osobe koje brzo i jednostavno žele naručiti cvijeće i bukete iz lokalnih cvjećarni.
 
-Funkcionalnosti: 
+Funkcionalnosti: Korisnik može birati grad u kojem kupuju te određenu cvjećarnicu u gradu i naručiti cvijeće za određeni dan i vrijeme. Korisnik može odabrati količinu cvijeća po izboru ili može odabrati već ponuđene opcije. U postavkama profila korisnik može uređivati način plaćanja te mijenjati svoju adresu, lozinku ili broj telefona.
 
 
 ### Autor
